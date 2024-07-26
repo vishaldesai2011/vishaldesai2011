@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey there :wave:
 
-<!--
-**vishaldesai2011/vishaldesai2011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github.com/dhruv-patel-07/dhruv-patel-07/blob/main/resources/banner.png" alt="Hello world">
 
-Here are some ideas to get you started:
+<p align="center"> 
+  Visitor count<br><br>
+  <img src="https://profile-counter.glitch.me/vishaldesai2011/count.svg" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## About me
+“Man is made by his belief. As he believes, so he is.”  - Bhagavad Gita
+
+Hello!👋🏻 I'm Vishal Desai, an enthusiastic and motivated individual eager to embark on a career as a full-stack developer. I recently graduated with a degree in Bachelor of computer application and am excited to apply my knowledge and skills to real-world projects.
+
+
+## Get in touch :coffee:
+  - [LinkedIn](https://www.linkedin.com/in/vishaldesai2011)
