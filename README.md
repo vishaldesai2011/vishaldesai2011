@@ -9,7 +9,7 @@
 
 
 ## About me
-“Man is made by his belief. As he believes, so he is.”  - Bhagavad Gita
+“Dreams transform into thoughts and thoughts result in action." - Dr. A.P.J. Abdul Kalam
 
 Hello!👋🏻 I'm Vishal Desai, an enthusiastic and motivated individual eager to embark on a career as a full-stack developer. I recently graduated with a degree in Bachelor of computer application and am excited to apply my knowledge and skills to real-world projects.
 
